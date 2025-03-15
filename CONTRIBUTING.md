@@ -1,0 +1,1 @@
+By submitting a pull request or committing changes directly, you represent that you agree that your contributions are licensed under the license of this project and that you have the right to license your contribution accordingly.
